@@ -3,3 +3,16 @@ in this Question he give U a grammar
 S-> aSbS | bSaS | eps
 
 and ask U to write recursive descent parser
+
+
+Extra:
+
+Read parsed string from File and the output put it in file 
+
+
+ex:
+string : abab
+output in file : parsed
+
+string : bba
+output in file : NOT parsed
