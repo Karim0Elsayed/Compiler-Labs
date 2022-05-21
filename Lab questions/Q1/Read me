@@ -1,0 +1,5 @@
+in this Question he give U a grammar 
+
+S-> aSbS | bSaS | eps
+
+and ask U to write recursive descent parser
